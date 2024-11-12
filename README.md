@@ -97,7 +97,6 @@ LibraryGo - GoTeleBot is licensed under the [MIT License](https://github.com/Lib
 
 ## Contact
 
-- **Email**: [iankrch@gmail.com](mailto:iankrch@gmail.com)
 - **Telegram**: [@ankit_chaubey](https://t.me/ankit_chaubey)
 - **Write in Bot**: [@ChaubeyBot](https://t.me/ChaubeyBot)
 
